@@ -1,0 +1,11 @@
+/node_modules
+/.vscode
+/tempUpload
+/upload
+/index.html
+/fileManager
+/privateFile
+/yarn.lock
+/public/css
+/public/fonts
+/public/js
